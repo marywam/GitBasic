@@ -24,9 +24,9 @@ This assignment aims to familiarize students with the basic workflow of creating
 2. Inside the hello.txt I input "hello Git"
 
 ### Task 5: Commit the changes
-  git add.
-  git commit -m"Add hello.txt with a greeting"
-  git push 
+ 1. git add.
+ 2.  git commit -m"Add hello.txt with a greeting"
+  3. git push 
 
 
 
