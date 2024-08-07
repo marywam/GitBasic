@@ -17,6 +17,16 @@ This assignment aims to familiarize students with the basic workflow of creating
 
 ### Task 3: Clone my git Repository
 1. Connect my local repository with my git repository
-2. git clone  
+   git clone https://github.com/marywam/GitBasic
+
+### Task 4: Create a file txt
+1. Created a hello.txt
+2. Inside the hello.txt I input "hello Git"
+
+### Task 5: Commit the changes
+  git add.
+  git commit -m"Add hello.txt with a greeting"
+  git push 
+
 
 
