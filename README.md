@@ -1,1 +1,2 @@
-# GitBasic
+# Git and GitHub Setup Guide
+
